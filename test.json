@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "ip": "192.168.1.109",
+    "disk": 2385062,
+    "data_time": "2022-09-20T18:03:34.898",
+    "network_frequency": 1.11,
+    "cpu_usage": 0.32,
+    "memory_usage": 0.33,
+    "disk_usage": 0.34,
+    "create_time": "2022-09-20T18:03:34.898",
+    "update_time": "2022-09-20T18:03:34.898"
+}
